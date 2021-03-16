@@ -1,4 +1,4 @@
-baseurl = "0days.io"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
