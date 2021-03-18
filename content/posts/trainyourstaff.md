@@ -14,4 +14,8 @@ Don't get me wrong here, I do recommend setting up a good parameter and have hig
 
 Train your staff. Educate your staff. These are the people you trust everyday to not click that link. If we spend hundred of thousands or even millions of dollars setting up defensive parameters, but someone manages to bypass your spamfilter and spoof the domain name making it highly unlikely your untrained staff will spot anything suspicious, what's the point?
 Your staff just clicked the link and submitted their details. The attackers are in.
+
+Now you might ask something along the lines of; isn't al this just speculations?
+
+Seriously, no. It is not.
 *TBC*
