@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Did you know
-70% to 90% of all malicious breaches are due to social engineering and phishing attacks*?
+70% to 90% of all malicious breaches happens due to social engineering and phishing attacks?
 
 I always like to think I have a unique approach on cyber security. 
 Humans are creatures of habit and routine. Just as it takes us 20 years or more to develop our adult personalities, we are also developing behaviors and habits that will stay with us for a lifetime. This can be very dangeorus in the field of cyber security.
@@ -25,4 +25,6 @@ Seriously, no. It is not.
 
 
 
-*Source: https://privacyrights.org/**
+
+
+*Source: https://privacyrights.org/*
