@@ -1,7 +1,7 @@
 ---
 title: "Is CVSS the Right Measurement for Vulnerabilities?"
 date: 2021-04-20T21:23:47+02:00
-draft: false
+draft: true
 ---
 
 ### Is a number between 1 and 10 enough to rate and determine a vulnerabilities potential in your organization?
@@ -11,4 +11,4 @@ Usually the vulnerabilities are found by an automated tool from which within the
 The main issue with CVSS is the way people tend to read the results. When we don't look any deeper into the results than the numbers, we become blind of what is really there.
 
 
-### Is an automated vulnerability manager the key for succes?
+### Is an automated vulnerability scanner the key for succes?
