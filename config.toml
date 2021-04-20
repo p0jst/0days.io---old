@@ -28,7 +28,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "0days.io"
-    subtitle = "a blog about cyber security and vulnerabilities"
+    subtitle = "a cyber security and vulnerability blog"
     keywords = "cyber security, hacking, infosec, vulnerability, cvs, cvss, vuln"
     copyright = ""
     menuMore = "Show more"
