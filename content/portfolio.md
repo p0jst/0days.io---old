@@ -17,3 +17,8 @@ I try to keep this as updated as possible. I do tend to take minor certificates 
 
 2019 June - Splunk 7.x Fundamentals -> [VALIDATE](https://education.splunk.com/award/completion/f198122a-44c9-3224-8115-7927b46785ec)
 
+
+
+Work Experience & Projects
+
+Sorry there is not much here right now. I will add more to it soon. Eventually. I promise.
