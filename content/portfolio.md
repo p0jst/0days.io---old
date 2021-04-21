@@ -6,7 +6,7 @@ draft: false
 I try to keep this as updated as possible. I do tend to take minor certificates here and there I that forget to add, but you get the overall picture.
 
 
-### Certificates
+### Professional Training & Certifications
 2021 April - CompTIA Security+ -> Currently Studying, exam booked
 
 2021 March - MITRE Application of the MITRE ATT&CK Framework -> [VALIDATE](https://app.cybrary.it/courses/api/certificate/CC-39b948f5-6757-428e-888e-67ab74d193f8/view)
