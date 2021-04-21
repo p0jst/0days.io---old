@@ -3,13 +3,10 @@ title: "README"
 draft: false
 ---
 
- ### Hello friend.
+ ### Welcome home, stranger.
 
- Hello, friend? 
- That's lame. Maybe I should give you a name.
+ Thank you for accidentally stumbling upon this website, I am happy you are here.
 
- *Did you get it? Awhh, nice.*
-
- My name is Frederik and I am working as a cyber security consultant. I quite enjoy learning new things, especially in the cyber security area.
- That means I usually have some sort of project going on, and when I work on a project I document it.
- I cannot really say what the next project might be, because I honestly have no idea. Usually what happens is, I remember something I watched in a webinar or read in a book two years ago and think "oh yeah, it would be cool to test it out!" and then I start
+ My name is Frederik and I am working as a cyber security consultant. I take big pride in my work, and when I have a chance I also document it.
+ When you are working as a cyber security consultant, you hear a lot of people talk about expensive and unmanageable software that *'makes our organization so much safer'*. I do not believe that is the case. I believe people, and working with people is the key element for proper cyber security in an organization.
+ What is a big expensive wall going to do, if your colleagues open the door for the attacker?
