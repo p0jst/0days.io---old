@@ -4,10 +4,12 @@ date: 2021-04-21T21:28:31+02:00
 draft: false
 ---
 
-I try to keep this as updated as possible. I do tend to take minor certificates here and there i forget to add, but you get the overall picture.
+I try to keep this as updated as possible. I do tend to take minor certificates here and there I that forget to add, but you get the overall picture.
 
 ### Certificates
 2021 April - Security+ -> Currently Studying, exam booked
+
+<a href="http://example.com/" target="_blank">example</a>
 
 2021 March - Application of the MITRE ATT&CK Framework [VALIDATE](https://app.cybrary.it/courses/api/certificate/CC-39b948f5-6757-428e-888e-67ab74d193f8/view)
 
