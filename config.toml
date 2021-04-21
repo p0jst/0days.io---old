@@ -55,8 +55,8 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/posts/readme/"
+        url = "/readme"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Portfolio"
-        url = "/posts/portfolio"
+        url = "/portfolio"
