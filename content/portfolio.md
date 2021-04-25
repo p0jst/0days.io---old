@@ -25,4 +25,4 @@ I try to keep this as updated as possible. I do tend to take minor certificates 
 
 *Sorry there is not much here right now. I will add more to it soon. Eventually. I promise.* 
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/4sphyxia.png" alt="TryHackMe">
+ ![](https://tryhackme-badges.s3.amazonaws.com/4sphyxia.png)
