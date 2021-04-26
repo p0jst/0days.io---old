@@ -1,9 +1,7 @@
 ---
-title: "README"
+title: "Welcome home, stranger."
 draft: false
 ---
-
-# Welcome home, stranger.
 
 Thank you for accidentally stumbling upon this website, I am happy you are here.
 
