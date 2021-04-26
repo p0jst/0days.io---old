@@ -13,7 +13,7 @@ What is a big expensive wall going to do, if your colleagues open the door for t
 
 
 ## Professional Training & Certifications
-I try to keep this as updated as possible. I do tend to take minor certificates here and there I that forget to add, but you get the overall picture.
+I try to keep this as updated as possible. I do tend to take minor certificates here and there that I simply forget to add, but you get the overall picture.
 
 2021 April - CompTIA Security+ -> Currently studying, exam booked
 
