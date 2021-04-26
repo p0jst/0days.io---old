@@ -11,4 +11,7 @@ That raises a question or two in my book - are we aware of our responsibilities 
 ![](https://www.dlapiper.com/~/media/images/insights/publications/2021/01/total-number-of-breaches.jpg?la=en&hash=B2CF33915E784860155997DC358733C16423B7DF)
 
 #### Human error causes the most data leaks
-Let us not get ahead of ourselfes.
+Let us not get ahead of ourselfes. If we set up an example that could cause a unnoticed data leak in our daily routine, we should look at emails. If I want to email my colleague Bob the birthday invitation I spend the entire morning working on, but settle in by typing "Bo" and then tabbing it out, I might aswell send it to the most recent recipient starting with "Bo". That could also be "Bon Jovi", who knows?
+Now the issue comes into place. I just emailed Bon Jovi my birthday invitation, and I did not even notice. When I meet Bob later by the coffeemachine and asks him to bring a bottle of wine to the birthday party, he would have no clue of what I am talking about. Not until then have I then been able to call the DPO and notify a data leak.
+Come to think of it, I would love to have Bon Jovi at my birthday party, but that is not the point.
+
