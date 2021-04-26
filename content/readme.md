@@ -9,7 +9,7 @@ My name is Frederik and I am working as a cyber security consultant. I take big 
 
 When you are working as a cyber security consultant, you hear a lot of people talk about expensive and unmanageable software that *'makes our organization so much safer'*. I do not believe that is the case. I believe people, and working with people is the key element for proper cyber security in an organization.
 
-What is a big expensive wall going to do, if your colleagues open the door for the attacker? A wise man once said: *"You cannot download a patch for human stupidity"*.
+What is a big expensive wall going to do, if your colleagues open the door for the attacker? A wise old man once said: *"You cannot download a patch for human stupidity"*.
 
 
 ## Professional Training & Certifications
