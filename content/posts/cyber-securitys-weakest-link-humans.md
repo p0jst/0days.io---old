@@ -15,6 +15,4 @@ Let us not get ahead of ourselfes. If we set up an example that could cause a un
 Now the issue comes into place. I just emailed Bon Jovi my birthday invitation, and I did not even notice. When I meet Bob later by the coffeemachine and asks him to bring a bottle of wine to the birthday party, he would have no clue of what I am talking about. Not until then have I then been able to call the DPO and notify a data leak.
 Come to think of it, I would love to have Bon Jovi at my birthday party, but that is not the point.
 
-
-
-### Let us scale it up
+*26/4-2021 To be continued*
