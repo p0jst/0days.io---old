@@ -58,5 +58,5 @@ paginate = 5
         url = "/readme"
       [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "Portfolio"
-        url = "/portfolio"
+        name = "Blog"
+        url = "/"
