@@ -6,7 +6,7 @@ draft: false
 
 Last night I read about Cialdini's Consistency. To quote Wikipedia, it states:
 "The consistency principle states that people are motivated toward cognitive consistency and will change their attitudes, beliefs, perceptions and actions to achieve it. Robert Cialdini and his research team have conducted extensive research into what Cialdini refers to as the 'Consistency Principle of Persuasion'."
-Exciting stuff! 
+
 
 ### The Principles of Cialdini
 
