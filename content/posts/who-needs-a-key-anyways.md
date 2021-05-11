@@ -17,7 +17,7 @@ In 2016 he proposed yet another principle and called it the unity principle. The
 
 
 ### Turning theory in practice
-My ultimate goal was to employees to go to a web page and enter credentials, but I wasn't going to just ask for that. So I asked three simple questions first that I figured would all be good for the user and I praised them each time.
+My ultimate goal was to get employees to go to a website and enter credentials, but I wasn't going to just ask for that. So I asked three simple questions first that I figured would all be good for the user and I praised them each time.
 "Hi, this is Frederik, I'm doing the annual security audit where random names are chosen by [insert management name here] and then we just do a quick 2 minute spot check to be sure we are in line with our compliance goals. Can I just ask you the questions I have on my list? The employees are usually always happy to help out and agrees.
 Are you careful about what web sites you visit while on your company-issued laptop?
 Yes.
