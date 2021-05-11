@@ -28,4 +28,4 @@ When you see sketchy emails, do you report those?
 Yes.
 Oh good, some people said they didn't know what they look like so I then had to explain it to them, but you're doing great work, thank you for that. Last one, the company policy is that all passwords must be at least 8 characters, can you go to this site, enter your password and the next page will confirm whether it complies with policy and just tell me if it does, and then I'll be out of your hair."
 
-Didn't work on the IT people they gave me. Worked great on non-IT people.
+Didn't work on the IT people. Worked great on non-IT people.
