@@ -7,30 +7,28 @@ draft: false
 Like many others, I have had the pleasure of working remotely for some time now.
 That also means the right equipment, such as a triple-monitor setup is required for me. I do already have a triple-monitor setup, but I did not want to have to deal with moving HDMI cables from my desktop PC to my laptop every day. Therefore, dealing with a Lenovo T470 laptop and a ThinkPad Ultra docking station, I am somewhat limited in my monitor input- and outputs. I decided to look for a USB 3.0 to HDMI adapter online. Fortunately, I quickly found a dirt cheap converter online and decided to go for it. For 25 bucks you can’t go wrong.. Or can you?
 
-Fast forward a few days and I hear a knock on my front door. The converter is here and It is finally time to set up my 3rd monitor for work purposes!
+Fast forward a few days and I hear a knock on my front door. The converter is here and It is finally time to set up my 3rd monitor for work purposes.
 
-I plugged it straight into my workstation and immediately noticed something strange. It is registered as a regular USB memory stick. I clearly remember thinking this was not normal for a HDMI converter, but also thinking that it could be the drivers that they put on a memory stick inside the converter. Nonetheless, I did a quick antivirus scan on the USB stick to check for the most basic stuff. Nothing pops up, and Windows says it’s clean. I would not expect otherwise from Windows, but then  I was at least 5% more confident that this is normal behavior and not something shady.
- 
-I opened up the drive and found this. Exactly as expected, there were three different drivers on the drive itself.Since I was running Windows 10 on my workstation I chose to execute the Windows7-Windows10_v1.0.0.1.exe” file.
+I plugged it straight into my workstation and immediately noticed something strange. It is registered as a regular USB memory stick. I clearly remember thinking this was not normal for a HDMI converter, but also thinking that it could be the drivers that they put on a memory stick inside the converter. Nonetheless, I did a quick antivirus scan on the USB stick to check for the most basic stuff. Nothing pops up, and Windows says it’s clean. I would not expect otherwise from Windows, but then  I was at least 5% more confident that this is normal behavior and not something shady. 
+I opened up the drive and found this. 
 ![](https://i.imgur.com/AdZVVIa.png)
+Exactly as expected, there were three different drivers on the drive itself.Since I was running Windows 10 on my workstation I chose to execute the Windows7-Windows10_v1.0.0.1.exe” file.
 
 
 And the first thing I saw was this.
-
+![](https://imgur.com/DdPI9TX.png)
 
 Again, this is NOT what I wanted to see when installing drivers on my workstation. Chinese letters all over, and the driver is written by.. MS?
 
 At this point, I decided to pull the device out of my workstation. To my great fear I saw yet another pop up as shown below. The text  translates to ‘The device is ready’ and ‘MS_Idd_Bus_02’ is configured and ready to use.
+![](https://imgur.com/oDYbWEC.png)
 
 
 I did not install it, I exited the installer! Not knowing much about drivers in general, I did a quick search on this ‘MS_Idd_Bus_02’ and I saw only results from other people with the exact same USB 3.0 to HDMI driver. I was by now fairly concerned about exactly what I plugged into my workstation and I decided to shut it off completely. I took out the battery and called up my colleague, asking him to start inspecting logs from my PC.
 
 While he was working on that, I booted up my regular everyday desktop PC and started a virtual Windows 10 machine. I plugged in the USB 3.0 to HDMI converter to my desktop and imported the shady .exe driver file to Joe Sandbox fearing the worst. 
 If you do not know what Joe Sandbox is, I really cannot stress enough how good of a tool it is for analyzing suspicious files like this one. It runs the executable in a controlled environment and screenshots every step of the executable file for you to look through. Not only that, it also documents everything the file does in detail. Knowing this, I had to run my shady executable file through Joe Sandbox immediately.
-
-
-
-
+![](https://i.imgur.com/PCRBqiY.png)
 
 
 I waited for the results to come. After a few minutes it finished and gave the file a “suspicious-score” of 34/100. Knowing Joe Sandbox and having used it a few times beforehand I knew that Joe Sandbox quickly ramps up points for minor things, so I knew I had to do some more research before calling this one. A score of 34 is not a whole lot, but it is still worth looking into knowing what we know prior to these results.
