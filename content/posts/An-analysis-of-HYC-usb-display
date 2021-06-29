@@ -12,7 +12,7 @@ Fast forward a few days and I hear a knock on my front door. The converter is he
 I plugged it straight into my workstation and immediately noticed something strange. It is registered as a regular USB memory stick. I clearly remember thinking this was not normal for a HDMI converter, but also thinking that it could be the drivers that they put on a memory stick inside the converter. Nonetheless, I did a quick antivirus scan on the USB stick to check for the most basic stuff. Nothing pops up, and Windows says it’s clean. I would not expect otherwise from Windows, but then  I was at least 5% more confident that this is normal behavior and not something shady.
  
 I opened up the drive and found this. Exactly as expected, there were three different drivers on the drive itself.Since I was running Windows 10 on my workstation I chose to execute the Windows7-Windows10_v1.0.0.1.exe” file.
-
+![](https://i.imgur.com/AdZVVIa.png)
 
 
 And the first thing I saw was this.
