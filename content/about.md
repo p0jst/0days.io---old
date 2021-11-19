@@ -15,7 +15,7 @@ What is a big expensive wall going to do, if your colleagues open the door for t
 ## Professional Training & Certifications
 I try to keep this as updated as possible. I do tend to take minor certificates here and there that I simply forget to add, but you get the overall picture.
 
-2021 April - CompTIA Security+ -> Currently studying, exam booked
+2021 November - Jr Penetration Tester -> [VALIDATE](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EFB90NHELN.png)
 
 2021 March - MITRE Application of the MITRE ATT&CK Framework -> [VALIDATE](https://app.cybrary.it/courses/api/certificate/CC-39b948f5-6757-428e-888e-67ab74d193f8/view)
 
