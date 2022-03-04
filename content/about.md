@@ -15,7 +15,7 @@ What is a big expensive wall going to do, if your colleagues open the door for t
 ## Professional Training & Certifications
 I try to keep this as updated as possible. I do tend to take minor certificates here and there that I simply forget to add, but you get the overall picture.
 
-2022 March - Investigation Theory -> [VALIDATE](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Enetworkdefense%2Eio%2Fcertgen%2Fcertificate%2Finvestigation-theory-17444%2F4667501%3Fsso%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJ1c2VyIjoxNTAyNzc4LCJleHAiOjE2NDY0MDc3MzZ9%2EJjiLHRWitU8OnER_NNvALFzYCSaILkvuzyIqEWW6oIU&urlhash=BtLC&trk=public_profile_see-credential)
+2022 March - Investigation Theory, An Analyst Mindset -> [VALIDATE](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Enetworkdefense%2Eio%2Fcertgen%2Fcertificate%2Finvestigation-theory-17444%2F4667501%3Fsso%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJ1c2VyIjoxNTAyNzc4LCJleHAiOjE2NDY0MDc3MzZ9%2EJjiLHRWitU8OnER_NNvALFzYCSaILkvuzyIqEWW6oIU&urlhash=BtLC&trk=public_profile_see-credential)
 
 2021 November - Jr Penetration Tester -> [VALIDATE](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EFB90NHELN.png)
 
